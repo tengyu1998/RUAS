@@ -1,6 +1,6 @@
 # RUAS
 
-This is the official code for the paper "Learning with Nested Scene Modeling and Cooperative Architecture Search for Low-Light Vision" [Paper](https://arxiv.org/abs/2112.04719)
+This is the official code for the paper "Learning with Nested Scene Modeling and Cooperative Architecture Search for Low-Light Vision". [Paper](https://arxiv.org/abs/2112.04719)
 
 A preliminary version of this work has been published in CVPR 2021 [1]. [RUAS](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.html)
 In the conference work, we proposed a new method to integrate the principled optimization unrolling technique with a cooperative prior architecture search strategy for designing an effective yet lightweight low-light image enhancement network. 
@@ -50,11 +50,11 @@ python test_detection.py
 
 If you find our work useful in your research please consider citing our paper:
 ```
-@inproceedings{liu2021ruas,
-title = {Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement},
-author = {Risheng, Liu and Long, Ma and Jiaao, Zhang and Xin, Fan and Zhongxuan, Luo},
-booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-year = {2021}
+@article{liu2021learning,
+  title={Learning with Nested Scene Modeling and Cooperative Architecture Search for Low-Light Vision},
+  author={Liu, Risheng and Ma, Long and Ma, Tengyu and Fan, Xin and Luo, Zhongxuan},
+  journal={arXiv preprint arXiv:2112.04719},
+  year={2021}
 }
 ```
 
